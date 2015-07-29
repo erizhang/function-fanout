@@ -1,0 +1,12 @@
+*.swp
+
+# intermediate files
+.[ao]
+.obj
+_objs
+fanout_ut
+
+# eclipse project
+.cproject
+.project
+
